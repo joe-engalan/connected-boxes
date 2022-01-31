@@ -1,0 +1,31 @@
+{
+  "name": "connected-boxes",
+  "version": "1.0.0",
+  "description": "Use drag with an orthographic camera. Connected boxes.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@hookstate/core": "3.0.13",
+    "@react-three/drei": "8.7.5",
+    "@react-three/fiber": "7.0.25",
+    "@types/three": "0.136.1",
+    "@use-gesture/react": "10.2.4",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "5.0.0",
+    "three": "0.137.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
